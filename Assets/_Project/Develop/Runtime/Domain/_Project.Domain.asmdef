@@ -1,0 +1,21 @@
+{
+    "name": "_Project.Domain",
+    "rootNamespace": "",
+    "references": [
+        "GUID:01b0313202148734e842859e15fa9ef4",
+        "GUID:f5fa3df58b8609c42a7a2c29c8826047",
+        "GUID:6a157922c7579c9468d9328623602046",
+        "GUID:75469ad4d38634e559750d17036d5f7c",
+        "GUID:77221876cc6b8244180b96e320b1bcd4",
+        "GUID:0d8beb7f090555447a6cf5ce9e54dbb4"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

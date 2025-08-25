@@ -1,0 +1,20 @@
+{
+    "name": "_Project.Presentation",
+    "rootNamespace": "",
+    "references": [
+        "GUID:01b0313202148734e842859e15fa9ef4",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:713993a914a360348b29ebf39b81bbac",
+        "GUID:77221876cc6b8244180b96e320b1bcd4",
+        "GUID:0d8beb7f090555447a6cf5ce9e54dbb4"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
